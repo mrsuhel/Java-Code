@@ -6,6 +6,7 @@ class A2DArray{
 				System.out.print(a[i][j]+" ");
 			}
 			System.out.println();
+			System.out.prinltn("Hi"):
 		}
 	}
 }
